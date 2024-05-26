@@ -1,5 +1,5 @@
 <template>
-  <footer id="contact" class="bg-slate-50 flex flex-col gap-10 items-center px-8 py-8">
+  <footer id="contact" class="bg-slate-50 flex flex-col gap-10 items-center px-8 py-8 2xl:text-xl">
     <div class="flex flex-col items-center gap-3">
         <div class="w-max bg-slate-200 text-gray-500 text-lg font-medium tracking-widest px-4 p-2 rounded">İLETİŞİM</div>
         <p class="text-center">Benimle iletişime geçmek için aşağıdaki iletişim yöntemlerini kullanabilirsiniz.</p>

@@ -1,19 +1,22 @@
 <template>
-  <header class="bg-slate-50 flex justify-between items-center px-12 py-6">
+  <header class="bg-slate-50 flex justify-between w-full items-center sticky z-10 top-0 px-12 py-6">
     <h1 class="text-2xl font-semibold">Mutlucan Çelik</h1>
     <nav class="flex justify-between items-center gap-3 hidden lg:flex">
         <ul class="text-lg text-gray-600 flex justify-between gap-8">
             <li class="hover:text-stone-900 hover:scale-105 transition duration-300">
-                <router-link>Anasayfa</router-link>
+                <a href="#home">Anasayfa</a>
             </li>
             <li class="hover:text-stone-700 hover:scale-105 transition duration-300">
-                <router-link>Yeteneklerim</router-link>
+                <a href="#about">Hakkımda</a>
             </li>
             <li class="hover:text-stone-700 hover:scale-105 transition duration-300">
-                <router-link>Deneyimlerim</router-link>
+                <a href="#skills">Yeteneklerim</a>
             </li>
             <li class="hover:text-stone-700 hover:scale-105 transition duration-300">
-                <router-link>Projeler</router-link>
+                <a href="#experiences">Deneyimlerim</a>
+            </li>
+            <li class="hover:text-stone-700 hover:scale-105 transition duration-300">
+                <a href="#projects">Projeler</a>
             </li>
             <li class="hover:text-stone-700 hover:scale-105 transition duration-300">
                 <a href="#contact">İletişim</a>
