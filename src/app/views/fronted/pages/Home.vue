@@ -27,7 +27,7 @@
                     </div>
                 </div>
                 <div class="lg:w-2/6 ">
-                    <img class="w-full h-auto rounded" src="@/assets/img/profil-photo.jpeg" alt="">
+                    <img class="w-full h-auto rounded" src="@/assets/img/profil-photo.jpeg" alt="logo">
                 </div>
             </div>
         </section>
@@ -35,7 +35,7 @@
             <h2 class="text-center text-3xl lg:text-4xl text-stone-600 tracking-widest mb-10 lg:mb-16 font-bold font-serif drop-shadow-lg">HAKKIMDA</h2>
             <div class="flex flex-col gap-8 lg:gap-0 lg:flex-row ">
                 <div class="lg:w-1/2 px-8 xl:px-32">
-                     <img class="w-full h-auto rounded" src="@/assets/img/mutlu.jpg" alt="">
+                     <img class="w-full h-auto rounded" src="@/assets/img/mutlu.jpg" alt="logo">
                 </div>
                 <div class="lg:w-1/2 px-8 xl:pe-16">
                 <h3 class="font-bold text-2xl 2xl:text-3xl mb-4">Curious about me? Here you have it:</h3>
@@ -93,14 +93,14 @@
              <h2 class="text-center text-3xl md:text-4xl text-stone-600 tracking-widest font-bold font-serif drop-shadow-lg">DENEYİMLERİM</h2>
              <p class="text-center mt-4">Gerçekten iyi olduğum beceriler, araçlar ve teknolojiler,</p>
            </div>
-            <div class="flex flex-col justify-center gap-16 h-max px-32">
-                <div class="flex shadow-xl w-1/2 p-3">
+            <div class="flex flex-col items-center justify-center gap-16 h-max px-8 xl:px-32">
+                <div class="flex flex-col md:flex-row shadow-xl xl:self-start xl:w-1/2 p-5">
                     <div class="md:w-2/6">
-                        <img src="@/assets/img/experience.jpeg" alt="">
+                        <img src="@/assets/img/experience.jpeg" alt="logo" class="mx-auto">
                     </div>
                     <div class="md:w-4/6">
-                        <div class="flex justify-between">
-                            <h2 class="text-xl font-bold mb-6">Frontend Developer</h2>
+                        <div class="flex justify-between mb-6 items-center">
+                            <h2 class="m-0 text-xl font-bold">Frontend Developer</h2>
                             <span>12.07.2023</span>
                         </div>
                         <div class="flex flex-col gap-2">
@@ -123,13 +123,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex shadow-xl self-end w-1/2 p-3">
+                <div class="flex flex-col md:flex-row shadow-xl xl:self-end xl:w-1/2 p-5">
                     <div class="md:w-2/6">
-                        <img src="@/assets/img/experience.jpeg" alt="">
+                        <img src="@/assets/img/experience.jpeg" alt="logo" class="mx-auto">
                     </div>
                     <div class="md:w-4/6">
-                        <div class="flex justify-between">
-                            <h2 class="text-xl font-bold mb-6">Frontend Developer</h2>
+                        <div class="flex justify-between mb-6 items-center">
+                            <h2 class="m-0 text-xl font-bold">Frontend Developer</h2>
                             <span>12.07.2023</span>
                         </div>
                         <div class="flex flex-col gap-2">
@@ -152,13 +152,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex shadow-xl w-1/2 p-3">
+                <div class="flex flex-col md:flex-row shadow-xl xl:self-start xl:w-1/2 p-5">
                     <div class="md:w-2/6">
-                        <img src="@/assets/img/experience.jpeg" alt="">
+                        <img src="@/assets/img/experience.jpeg" alt="logo" class="mx-auto">
                     </div>
                     <div class="md:w-4/6">
-                        <div class="flex justify-between">
-                            <h2 class="text-xl font-bold mb-6">Frontend Developer</h2>
+                        <div class="flex justify-between mb-6 items-center">
+                            <h2 class="m-0 text-xl font-bold">Frontend Developer</h2>
                             <span>12.07.2023</span>
                         </div>
                         <div class="flex flex-col gap-2">
@@ -181,13 +181,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex shadow-xl self-end w-1/2 p-3">
+                <div class="flex flex-col md:flex-row shadow-xl xl:self-end xl:w-1/2 p-5">
                     <div class="md:w-2/6">
-                        <img src="@/assets/img/experience.jpeg" alt="">
+                        <img src="@/assets/img/experience.jpeg" alt="logo" class="mx-auto">
                     </div>
                     <div class="md:w-4/6">
-                        <div class="flex justify-between">
-                            <h2 class="text-xl font-bold mb-6">Frontend Developer</h2>
+                        <div class="flex justify-between mb-6 items-center">
+                            <h2 class="m-0 text-xl font-bold">Frontend Developer</h2>
                             <span>12.07.2023</span>
                         </div>
                         <div class="flex flex-col gap-2">
@@ -217,7 +217,7 @@
             <div class="px-8 lg:px-16 flex flex-col gap-24">
                 <div class="flex flex-col items-center lg:flex-row lg:items-start gap-20 rounded shadow-lg p-8 lg:p-12">
                     <div class="lg:w-1/2">
-                        <img class="mx-auto" src="@/assets/img/proje.png" alt="">
+                        <img class="mx-auto" src="@/assets/img/proje.png" alt="logo">
                     </div>
                     <div class="lg:w-1/2 w-full flex flex-col gap-4">
                             <h3 class="font-bold text-3xl">Fiskil</h3>
@@ -242,12 +242,12 @@
                             </div>
                     </div>
                      <div class="lg:w-1/2">
-                        <img class="mx-auto" src="@/assets/img/proje.png" alt="">
+                        <img class="mx-auto" src="@/assets/img/proje.png" alt="logo">
                     </div>
                 </div>
                 <div class="flex flex-col items-center lg:flex-row lg:items-start  gap-20 rounded shadow-lg p-8 lg:p-12">
                     <div class="lg:w-1/2">
-                        <img class="mx-auto" src="@/assets/img/proje.png" alt="">
+                        <img class="mx-auto" src="@/assets/img/proje.png" alt="logo">
                     </div>
                     <div class="lg:w-1/2 w-full flex flex-col gap-4">
                             <h3 class="font-bold text-3xl">Fiskil</h3>
@@ -272,7 +272,7 @@
                             </div>
                     </div>
                      <div class="lg:w-1/2">
-                        <img class="mx-auto" src="@/assets/img/proje.png" alt="">
+                        <img class="mx-auto" src="@/assets/img/proje.png" alt="logo">
                     </div>
                 </div>
             </div>
